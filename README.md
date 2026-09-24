@@ -1,4 +1,4 @@
-# Livro-Caixa
+# Meu Bolso
 
 Rastreador de gastos pessoais construído em React. Os lançamentos (entradas e saídas) ficam salvos no `localStorage` do navegador, com resumo mensal de saldo e um gráfico de saídas por categoria.
 
